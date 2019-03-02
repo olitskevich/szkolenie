@@ -13,4 +13,3 @@ if if_palindrome:
     print("It is a Polindrome")
 else:
     print("It is NOT a Polindrome")
-
