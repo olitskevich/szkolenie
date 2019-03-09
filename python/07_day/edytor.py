@@ -7,7 +7,7 @@ with open (filename, 'w') as f:
 
 #dodalam komentarz        
 
-
+#dodalam drugi komentarz
 
 
 
