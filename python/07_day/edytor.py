@@ -5,8 +5,11 @@ text = input ("wprowadz text ")
 with open (filename, 'w') as f:
     f.write(text + '\n')
 
+#dodalam komentarz        
 
 #zmiana na masterze
+#dodalam drugi komentarz
+
 
 
 
