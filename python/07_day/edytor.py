@@ -6,7 +6,7 @@ with open (filename, 'w') as f:
     f.write(text + '\n')
 
 
-
+#zmiana na masterze
 
 
 
