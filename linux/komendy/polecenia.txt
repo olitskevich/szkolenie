@@ -1,0 +1,3 @@
+cd - przejsc do katalogu
+a - wyswietla wszystkie pliki
+
