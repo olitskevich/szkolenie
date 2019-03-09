@@ -18,9 +18,6 @@
 
 text = "carramba"
 sl_wystapienie = {}
-
-
-
 counter = 0
 
 for letter in text:
